@@ -1,0 +1,24 @@
+{
+    "user": [
+        {
+            "Username": "Durga",
+            "Password": "Durga12@",
+            "profile": {
+                "description": "I am selflearner.",
+                "dob": "18/10/2001",
+                "hobbies": "I want to became IPS.",
+                "gender": "Female"
+            }
+        },
+        {
+            "Username": "Sanum",
+            "Password": "Sanum12@",
+            "profile": {
+                "description": "I am best from all.",
+                "dob": "07/07/2003",
+                "hobbies": "He want to became enggineer.",
+                "gender": "male"
+            }
+        }
+    ]
+}
